@@ -17,11 +17,15 @@
 
 ## demo
 
+```xml
 <dependency>
     <groupId>io.github.haoyongqiang</groupId>
     <artifactId>hao-test-tools</artifactId>
     <version>1.0.0</version>
 </dependency>
+```
+
+
 
 ```java
 import io.github.haoyongqiang1999.haotest.annotation.EnableHaoTest;
